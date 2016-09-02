@@ -1,0 +1,39 @@
+﻿<LabTech_Expansion
+	Version="105.273"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5889</ScriptId>
+				<FolderId>209</FolderId>
+				<ScriptName>Remote Kill Command</ScriptName>
+				<ScriptNotes>Run and Edit access restricted to Super Admin user class.
+
+Created by jundis</ScriptNotes>
+				<Permission>5,</Permission>
+				<EditPermission>5,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAFWPzQrCMBCE74LvkAdoyU9Ja8qSi38XBVHRc5rsIZe0pA3Yt9cWhXqZYWf4FgZO3mLocWcGo+E+dqg50NnhmsK2TWHAqBnQxQX7V+fjxKB+ogvYOzNm5IBNTCaOhLOMCMZLUtVFVcuCXM5AFwzcbPTd8MDY+zZMz/+Db39M3mm2UdIqgbljH+EcZa5K0eSMMSvUpnBcyh8/A0CXk9arN2ZXbFviAAAA</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAN2UXW+CMBSG75fsP/QPsAIOJwshWXR+ZH4sw80bbipUbaytKSX681ewsEoiya6W7AbO+77tyelTQhAlghzlAEkU3t8BEFx0VgolX89SoCIdEkzTDMAqeEcCHbDEwvBGlK8RNYxLsy+1iHAWOgG8Nq5WjXKShnbP9xLfxVZqq4fjYM/yu+7asm07cf1eJ3U8r+pSbihnhubQul0k8bE+xUsi9QC60v4wZ6WepOFTAA1lHtIJ+88xlScu9oRt4z2h9EGeZQB1aq51Q1v77pXfaYB7bGjPYMaFLLqUb+31OZOE5bjw61pni2xKDqTcUpU6mbAUM4nKA6vUlCa2H1It6NwWdG4bu/HbdBZHfCNPSOB4RhLBM6XiFWEpP2Vgvoz7uRBqMv1VFAnlW1VEO0zpDczR+HM5WKzmAH4AOARwCW6Ary+k838vwOm2XEC2y6UizYAlgLUBlqxJNZg2iPz2k3X+gFil9e/rGwXKnpDNBAAA</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>0895c92e-d02e-11e5-962b-000c2983d155</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>209</FolderID>
+					<ParentID>0</ParentID>
+					<Name>Security</Name>
+					<GUID>5676bdb2-7c8d-47e5-93fb-e6d3b37a9809</GUID>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

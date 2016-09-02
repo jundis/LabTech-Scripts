@@ -1,0 +1,42 @@
+﻿<LabTech_Expansion
+	Version="105.273"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5778</ScriptId>
+				<FolderId>209</FolderId>
+				<ScriptName>Run MBSA Scan</ScriptName>
+				<ScriptNotes>Runs the Microsoft Baseline Security Analyzer and uploaded the resulting scan to the uploads folder of the computer.
+
+Created by jundis</ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>1</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAFWPzwqCQBjE70HvsA/gsn90NeVjLxVdKqKku62fsIdWWd3Itw+lwE7DzPAbGDhag67HXTVUGsqxQy2AzQrX4LZtcAN6zYEtHOzfnfUTg7oM2NfVGJFz+8LnAz2RKiKSi4SkhRCFysjlBGxBwM142w139L1t3TT9H3z7Q7C15pucNzI2NEtMQ4XAhOZSpJRzbmS+iWuh1I+fAWDLQ+vVB04ntIjgAAAA</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO2aXW/aMBSG7yftPxwh9WYTBIePQoXQWlompHarhrQrpMp1DLVqbGo7artfPzsNXUCdh0ApSdcLhI+/ZD85J36PoTcmii3MKTa4//EDQO/J1olhzbMHo7BrHTLKIw3BsuESKzynhqpM3VcurzHPVDxN9tN2YlL0US9YrVjp9TVmUb/e6danYYNUD5tkWkWINqvdELWr9XqdhN1OI0Kt1nKWZECy5iC76HS6saGL510cE5MuIC2l9cNYJPYo6rfDXpAxs7tE/QtGlNRyauAEa8qZoDCmJFbMPMKxwPzxF1UQ1uwU6YDs8HANWmPNbq7ZrQw/qUy/bvfnvtO6gRSGiZi6+udy2vZdn7M5S4Ysi2nLSERUGJxs3rZmzSzCP9Q8GEMPRoSaHo6Dowk391LdMjF7mZVbXFpaYeaeXVp6u+xau7Hb0c9QqVi1PagiyiHQQDLEJp9q82uNcwEXlglciDzgWrnwaZSKT9d3DpyMj4/gRyxEXkHYLBMrbxBW7AvrUsmZNWDIONWTzU7RiYtTwlmNPtAKBAarGTXAJcH8RmoDwZ39qAiy70MIBDCmP+s7nstTaZXpqWzgwWOCBdxg+4qU8wW3Ki6q5cKtXSZuXm+eSjV1TgzBAipZ17MuOoenwwUCYtsuTiEYgKLCymP4Mhydn8GBwxxbrezqDpK+lVx4H5aJ9x5Ook6Z+KDOhmpw8oJ/5YKvWzR8jfdMJB9275nIxqxCX5iOrdq5x4pO3Ll7FV41ksKYmnhRfei0q2ffanPN/uKAKzHugjrTN9wJ8BYZy2EJAbeb+wK8RcrT2V+0+4SPJWKFOHFqHAIGLyKzmjxmVqQHQiqqrWK3RS5nqwm466zdc6nZpv8jd/J69b9UOoyERck5jY5gcEPJLTikTEAkSTy3i9LApjDFVpXmpN4Ll/Vs7cSvfCFUuLTH64g+GY7y0eGFy1N2itR8b4QKl7NsHYVv6UaoVKlQgW6EULnyoPJfCaFyJVOvfyeECvfzjdcjC3cphAr3846Pn+9iY22jO4PZRz6ytNM/dPwGSk6gPN8hAAA=</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>0890f23c-74cf-11e4-9216-000c2983d155</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<File
+			Name="L:\Transfer\Software\MBSA_2_3\MBSASetup-x86-EN.msi"
+			Bytes="Sanitized." />
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>209</FolderID>
+					<ParentID>0</ParentID>
+					<Name>Security</Name>
+					<GUID>5676bdb2-7c8d-47e5-93fb-e6d3b37a9809</GUID>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

@@ -1,0 +1,52 @@
+﻿<LabTech_Expansion
+	Version="105.273"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5786</ScriptId>
+				<FolderId>190</FolderId>
+				<ScriptName>Ninite - Flash</ScriptName>
+				<ScriptNotes>Installs both Flash for IE and Flash for non-IE browsers
+
+Created by jundis</ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>1</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAFWPQQrCMBRE94J3yAEamt+k1ZRPNlbcKIiKrmvyF1mYlrQFe3tpUairYWZ4A4NHbyl0VNV9bfA2tmQA01nxMoRdM4SeohGYLhzu362PE0PmQS5Q5+oxYRVZej0pMgkJywQopkpZlBLY+YTpgsGrjb7t7xQ734Rp/D/49ofBO+O00najtlwDAAcgxXUGBRdC2ExvpYM8//EzgOny0nr1AT3v8CHiAAAA</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAN2XbWvCMBDH3w/2HfoFujZ90g4pDKcijG0g7JUgsYkaFhNpUvTjr6nRxW6WbU6kvmnvf5ccl99dpHZGaUZW8hFKmNzeWFZnq0UpCtnbyAyqaJ9gioTl7AKvMINLLHFm+AaUTyE1HNtkb8UiwlkCOs6h42DVICcoQXEQp62gbccAABsAHNixByLbdd3Ui9s+AmG4y1JuKGt2zKJ1upHEq/0pHlKpC9CW9vdzVuohUjFDmYcElUN7Fe1XdFDRocGDZzJxi3rVW/u6nEnCcqz8e1vHXsQTWZJyy87UkSFDmElYHqaImtJE8kmhBotXhwUEx8Ek3fsxlWuevRM27zjaecBKFaetA2aKt7aul52a1RPYnThnoEmsvHYNqhGfyTXM8PiZMCLxZERoUcVkyISElBY/Jjpg9SkUC/0c9qz9gju8wUfm02zDmG3zz1QCY493Uh+8JvUBRD8c2S+sLEeUbbG+WWVvV1E+txxEBJxSLBYFkzSXYu+BueT5CkF5pFUnXge/UW2ouw61gM/CLmgUu8j/6wyfBV54BB64Cnhnnrzo9/CAfzF6Yc3H0j9/RbYucCV3Wv9b+ACPuk0CPAwAAA==</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>d949c748-9111-11e4-9216-000c2983d155</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<File
+			Name="L:\Transfer\Software\Ninite_Silent_Installers\Ninite Flash Flash IE Installer.exe"
+			Bytes="Sanitized." />
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>190</FolderID>
+					<ParentID>1</ParentID>
+					<Name>+Ninite Installers</Name>
+					<GUID>820c4e00-f107-4f12-9b04-66105b6058cc</GUID>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>1</FolderID>
+					<ParentID>0</ParentID>
+					<Name>Software</Name>
+					<GUID>31866f37-8f0a-47b9-b1fd-11bd855f8391</GUID>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>
