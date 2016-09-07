@@ -1,0 +1,49 @@
+﻿<LabTech_Expansion
+	Version="105.273"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5966</ScriptId>
+				<FolderId>217</FolderId>
+				<ScriptName>Deploy Sophos Cloud A/V</ScriptName>
+				<ScriptNotes>Deploys the Sophos Cloud anti-virus software with conditions to remove MSE.
+
+Created by jundis</ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAFWPzQrCMBCE74LvkAdoSLYx2pQlF/8uiqLiPaYp5JKWNAX79tKiUE/D7My3MHjy1oXO7UwyGh9D6zQgmxRvfdg2fUguao5s5nD/bn0cGacP0VdmyMjFpublIslFRnIOkqxLWJUgyPWMbNbHu42+TU8XO9+E8fH/4Zsfe1/pwihh6oLTjYSaArg1VUpIyjm3uSpEBVL++AlANp+zXHwA3mamAN4AAAA=</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO2bW0/bMBTH3yftO3g8bQ+hubQhQVWl0gtDgEBkg5dIk0lcapE6ne3SomnffWlwS6iogSZtY8ZT40sS+5fjY//PUeteQPGQtyGHjc+fAKg/lFlaSIqdCadw2trFKAoZqMwaziGFA8QRzdQdRvE1jDIVDw+7TDrhmDSMeuVpxZNehyMcNhzoWrDn6NpezehphoFszXWtmqbremC6jhUatdrsKekN6Zgr2UGLx3kcDeezaAZcDEBcifruiKTlo7Bhm/VKppidpdE4xQGNWdzjwEPBiGJ+DzqMIcJxMt16RfTK3mMukLIWytWFci0DLaa8oSeTmv6KulacvIuM0LR+fi3aztgJHuD0ltmlaDkiYTJGmM44ac0Ws9weUUnYmRJ2hulK4O1fYRLG49JwMvbKCqozwXwtlIwVKNnbo2RtzZxMtZadLuHkxcN+zEAzGbV2ieloCbAnVmfmgmcpBc+oSuC19v1zGt8k16CLI8T8Z3aAVoSTofke4qPhLpqgJXyN59k29r1bPBQvSd8h+llvYl5VirktQb6zCvMdUJmAynp8Qa1otMb2fOYSWysWmK2ULb5p/YOvE8f+tgkv4Ngr+YE9pdgr5Qecd+wH5tZWLDJXKWt8yRNEfBzTW0xulqxtfcnaNlZayYZa0m+qx3PAyytsVlA221ucpiNjlbo0b4gC3MOBz9Lj+68xJpJdJctX3JHpne80b6ilhWRbyhJMQPsNND5kgKJBfLeEcV4DVUoUScMT0iAY6EMGrhEiYEQwYRxGEQoBJCEQOnTePm/dBecRggyBoI+CWxDFN6CXnrVwD/A+AuyecTRIPs4w4ccAicHdVMYCFkBCEN1dz/dSSlDVJDvXwkRzgylcDm0t0FY0GbV0j/yAuL4QpFIKReoIhUfDDMCIIhjeP/o0ENPEd+GHxsRlEU1EK8EABn1M0Jq8VuEa5d0sztJJEesjkbJ2UP9RIkVK6SOR8jpOUxm5lNP345NT3zvr/rhqXnQeg1G+wOe3RpQm4xJJbf/n7Pzr/2m73dZBs9nR2gd7plZ1nAPNtdu6pjebVstxzZbetv/6b4sqLH6Hxpd97/jo/KJzKPpXpd+ldHJE/l0KytG8MXCzQFTxjIyUsAzwg+EnPMeQoo0Z/pqyNkYp8b8QrX1ihu88WSPf7suV6S6dlsnlRTcb3y6dVJGy2254u3Dxkje6LWOlVnS7dFkWqRmWNbpdePplnRRfE9RRJUytlL7aZJhaLYGzyUiYWsJkW2Hq0qU58nq0MoWpFRMdG1yc21AUs7L488c/917IqgsyAAA=</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>8a93af80-751f-11e6-9935-000c2983d155</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>217</FolderID>
+					<ParentID>188</ParentID>
+					<Name>Sophos</Name>
+					<GUID>2017e10f-3f8b-4fd6-bd97-5f92ca67498b</GUID>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>188</FolderID>
+					<ParentID>0</ParentID>
+					<Name>Client Specific</Name>
+					<GUID>2094adf3-4e1e-462f-8df8-31f3aa55dfcd</GUID>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>
