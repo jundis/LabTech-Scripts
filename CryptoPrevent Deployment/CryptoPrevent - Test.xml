@@ -1,0 +1,111 @@
+﻿<LabTech_Expansion
+	Version="110.331"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5988</ScriptId>
+				<FolderId>209</FolderId>
+				<ScriptName>CryptoPrevent - Test</ScriptName>
+				<ScriptNotes>Runs the CryptoPrevent test software on a computer and sets EDFs for reporting purposes.
+
+Created by jundis.</ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAFWPywrCMBRE94L/kA9oyMtEWy7Z+NqoiIr7mN5FFqYlbcX+vbQo1NUwM5yBgUPwGBvcuNZZuPU1WgFsVLh0cV11scVkObCJg+27Dmlg0O5SKF2fkVP1wucDE+GLjEguDFGFVIU25HwENgHg6lOo2zumJlRxWP4Pvv2+C6U1Uni/NIo66RQVAg3Nc6Up59zLfKVKofWPHwFg0z/z2Qf3fb6u3wAAAA==</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAOWYbWvbMBCAvw/2H7wPoS1Mi/XitxJCQpqUQLeWJmwMCkOWlM1MsY0tb+2/n+0qnRMat6Rpi7ZP0d3pxOnhzqdLb8ayKFUnVNH+2zeW1buV81ooxfG1ymhlnURC8tzqrgwXNKNLoUTW0J3KJKSyobg97HO5KUriPux11xVru06LiPddBBnzXAwoohhAKFwQBNgBtm0zFPiYQ8dZnVI71DF3m0Hr42ZKpHe3GDKlA9ArrZ8UcS1PeWVrSM1Lwo1Low0Zb8hkQ3YaPJJM9e0y3upX60ZJrKK4EJX+bq1t5/lZtIxql9VSW6YxF7Gi9WVKa1NsIvlLoQULasMCyXYw/dHxlVS/k+xnFH/vdbVyjVUVnF6tMat469W/y67K1Sewe2KeQZNYIb8F1TxJZH41ym5SlVxk4lcZwlzkanQ2/SCuxZbEa/K9YrVveuurSl8mo4YvehJoZBJoiNxHJuVD0PabrdgkiChoy9aSlHUp8kKqY6uT/xBSZrXUeRZwxChwdgs4CLeU8mx8Nh7NrZPhfPxtcn75cTg//HT+5fDo/UFnCTocdL5anezgaEunUQmnNzt1G8cktH4b2iBEEEPmAciRC0gQeIByHADuQJdQTjyXhFvgD1iyTIvyoRfxwRbCgxrxYCfGrkmMvTbGjyj16vB7CequVh5rzQrGRJ4vCilvrGGaykjwd/ej7R/rzdpMWkl7/xVpvGfSExrJR2H2TcIMWzuZ/SwNKzAKEG4DtFF/e36/GzXstLefRSCI4BT4/sIBxPYFoI7rg4WHkeCuj/zq/b9r+9ltlIRGzUeteFlQ8mM2AQ73PUBCjEHocQ4IQzAUDrVDQl8cr2FT0ct/B6FRI88DH8JGe9wzJaPmm1csU3u3MjVqxnmVMn2NCWUl6//l/wBnzgUYphcAAA==</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>621cc763-a2a3-11e6-9935-000c2983d155</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<File
+			Name="L:\Transfer\Tools\CryptoPreventTestCLI.exe"
+			Bytes="Sanitized." />
+		<ExtraDataField>
+			<NewDataSet>
+				<Table>
+					<ID>545</ID>
+					<Form>1</Form>
+					<Name>Last Verification</Name>
+					<Sort>3</Sort>
+					<NoBreak>0</NoBreak>
+					<FType>0</FType>
+					<Section>CryptoPrevent</Section>
+					<UnEditable>0</UnEditable>
+					<Collapsed>0</Collapsed>
+					<Fill></Fill>
+					<LtGuid>9b2131c7-1d26-4997-ad39-d5164ad4764b</LtGuid>
+					<IsPassword>false</IsPassword>
+					<IsEncrypted>false</IsEncrypted>
+					<IsHidden>false</IsHidden>
+					<IsRestricted>false</IsRestricted>
+					<ViewPermissions></ViewPermissions>
+					<EditPermissions></EditPermissions>
+				</Table>
+			</NewDataSet>
+		</ExtraDataField>
+		<ExtraDataField>
+			<NewDataSet>
+				<Table>
+					<ID>543</ID>
+					<Form>1</Form>
+					<Name>CP Installed</Name>
+					<Sort>1</Sort>
+					<NoBreak>0</NoBreak>
+					<FType>1</FType>
+					<Section>CryptoPrevent</Section>
+					<UnEditable>0</UnEditable>
+					<Collapsed>0</Collapsed>
+					<Fill></Fill>
+					<LtGuid>9f9e4eda-88f5-408e-a568-f732ed682828</LtGuid>
+					<IsPassword>false</IsPassword>
+					<IsEncrypted>false</IsEncrypted>
+					<IsHidden>false</IsHidden>
+					<IsRestricted>false</IsRestricted>
+					<ViewPermissions></ViewPermissions>
+					<EditPermissions></EditPermissions>
+				</Table>
+			</NewDataSet>
+		</ExtraDataField>
+		<ExtraDataField>
+			<NewDataSet>
+				<Table>
+					<ID>544</ID>
+					<Form>1</Form>
+					<Name>Protection Verified</Name>
+					<Sort>2</Sort>
+					<NoBreak>0</NoBreak>
+					<FType>1</FType>
+					<Section>CryptoPrevent</Section>
+					<UnEditable>0</UnEditable>
+					<Collapsed>0</Collapsed>
+					<Fill></Fill>
+					<LtGuid>c9828c04-5d87-4b33-b7dd-4c21be5a0b4a</LtGuid>
+					<IsPassword>false</IsPassword>
+					<IsEncrypted>false</IsEncrypted>
+					<IsHidden>false</IsHidden>
+					<IsRestricted>false</IsRestricted>
+					<ViewPermissions></ViewPermissions>
+					<EditPermissions></EditPermissions>
+				</Table>
+			</NewDataSet>
+		</ExtraDataField>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>209</FolderID>
+					<ParentID>0</ParentID>
+					<Name>Security</Name>
+					<GUID>5676bdb2-7c8d-47e5-93fb-e6d3b37a9809</GUID>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

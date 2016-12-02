@@ -1,0 +1,65 @@
+﻿<LabTech_Expansion
+	Version="110.331"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5983</ScriptId>
+				<FolderId>209</FolderId>
+				<ScriptName>CryptoPrevent - Install</ScriptName>
+				<ScriptNotes>Runs the CryptoPrevent software on a computer and sets an EDF to true.
+
+Created by jundis.</ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAFWPywrCMBRE94L/kA9oyMuUpFyy8bVRFBX3Mckim7SkKdi/lxaFuhrmzpwLA6foQurDzhZr4DF2wTAgs8JtSNt2SCVkQ4EsHOzfXcwTE8whR2/HCl1caV8hI64qxCmrkWh43TCJrmcgiz7cXY5deYbcxzZNj/8P3/w4RG+kVkzZDcfac4EZCzXWWkhMKXVcK+GZlD9+BoAs56xXH3c+eWfeAAAA</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAN2WUWvbMBDH3wf9Dv4CrmzZzuQRTEe2lsJghZY95UWxzq2IYglJbpNvP9lRUiUsYZCWkj75/ne64+5nyfL4vtZc2R/U0uriSxSN19oMwsmfS6tpH73mIJiJ0CZwRzVdgAUd+G6EnFERONbF/rhFXLZVOka7jp1VNx1nVVGSlNAcxyXDWZymMIrLMiviJElqXJKMpUWxqTIkDD2jsGlf7t6C2k7xvba+AW95/3XXDvqW9bFAhUOme0PjPZ3t6XxPFwEPqW2VuH77p/dNZGt520Hv39o+9tv84gs+pGxMH7ltGbSWDsO4aChDJK8UjmDBx7Ck+WEw1eTbVNgXqee8fRwj79xh1TfnrR1mPW9vfV52/V49gd2J+yw9J1aYHEH1IKUw04leKSvvNDy7Fi5hCQd2XAj2YBI+CS0+J7Tp6D934bQeYKlXWBGiSolVhAwXzjVI5i4DIWsqtipCSstHV24tOgPaORqX4hIt1bZTEZrxNkINnQMsrbshzMrMwRWuuXoCHaFnYyhb9GsYN3QmwHAGM+oiL0/cguDGvsshyc7pTZLkyJssmxJyYDQmpCniPCEQ02JE4uZrhoGNCCb9Gfvnibmq5UJ17i7n7OpNP9f5B9DdaP9L8xdzghm/4QgAAA==</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>59818a42-9d23-11e6-9935-000c2983d155</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<File
+			Name="L:\Transfer\Tools\CryptoPrevent.exe"
+			Bytes="Sanitized." />
+		<ExtraDataField>
+			<NewDataSet>
+				<Table>
+					<ID>543</ID>
+					<Form>1</Form>
+					<Name>CP Installed</Name>
+					<Sort>1</Sort>
+					<NoBreak>0</NoBreak>
+					<FType>1</FType>
+					<Section>CryptoPrevent</Section>
+					<UnEditable>0</UnEditable>
+					<Collapsed>0</Collapsed>
+					<Fill></Fill>
+					<LtGuid>9f9e4eda-88f5-408e-a568-f732ed682828</LtGuid>
+					<IsPassword>false</IsPassword>
+					<IsEncrypted>false</IsEncrypted>
+					<IsHidden>false</IsHidden>
+					<IsRestricted>false</IsRestricted>
+					<ViewPermissions></ViewPermissions>
+					<EditPermissions></EditPermissions>
+				</Table>
+			</NewDataSet>
+		</ExtraDataField>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>209</FolderID>
+					<ParentID>0</ParentID>
+					<Name>Security</Name>
+					<GUID>5676bdb2-7c8d-47e5-93fb-e6d3b37a9809</GUID>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

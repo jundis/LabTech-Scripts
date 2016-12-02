@@ -1,0 +1,88 @@
+﻿<LabTech_Expansion
+	Version="110.331"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5984</ScriptId>
+				<FolderId>209</FolderId>
+				<ScriptName>CryptoPrevent - Uninstall</ScriptName>
+				<ScriptNotes>Removes the CryptoPrevent software from a computer and sets checkboxes to false.
+
+Created by jundis.</ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAFWPywrCMBRE94L/kA9oyMs+Ui7Z+Nooior7mtxFNmlJU7B/Ly0KdTXMnTkXBk7eYuhx16TGwGPs0Ahgs8JtCNt2CAmj4cAWDvbvzseJQXOI3jVjRi42tS+MRFYZkVwURNVS17Ik1zOwRR/uNvouPTH2vg3T4//DNz8O3pmysmKDmlPtpKJCYEG1VjnlnFupK+VEnv/4GQC2nLNefQCmMkWQ3gAAAA==</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAN2W30rDMBTG7wXfoS8Qm6TJlsooyvyDIDiYeLWbNMkk2DWlTXW+vW2XzWy6IQ6VedXzfacnnPPjkHYwFqUu7AW3PDk+CoLBQledaOTl3Ja8zV5plckqCJeJES/5TFlVet51ZlKeecbisIfmJW3yBA3CdWPtretay6TPBCIqhiCWOAIIqR6I44gCCKHAMYskonR5SlfQ9Rz6TbvjxlYVqynOhXUNuMj5V3Xe6RvZ5jzlD4k2hsYbOtrQZENTj4cpbQKbftun84YmtzqvVeuvYpe7q271THcly9BlbnKpcsu7YZqsL30k7xR2YMG7sCCyHUwyPJ1k9sWUTzp/HITOXGPVNueiNWYtbxf9X3btru7Bbs89Q4fECrMdqO6NyarJsHwtrBmV6rlp4UTN1ZaN88FORFdUfCjCe6HFh4QW9b64hR9hBWGdS8OzLAgrnTXmjyxqdEg0GdxBM57GiijJAWNTCghkCnDaY2Daj7CSPYZZu+efbu2ZMLOibr6nWp5tuTLht65M8m/oirjBJyABVLI+IGkUgbQvJSACo1RRDlPCf5su/QO6S+1+2t4Atu6/W8MJAAA=</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>78c14e90-9d23-11e6-9935-000c2983d155</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<File
+			Name="L:\Transfer\Tools\CryptoPrevent.exe"
+			Bytes="Sanitized." />
+		<ExtraDataField>
+			<NewDataSet>
+				<Table>
+					<ID>543</ID>
+					<Form>1</Form>
+					<Name>CP Installed</Name>
+					<Sort>1</Sort>
+					<NoBreak>0</NoBreak>
+					<FType>1</FType>
+					<Section>CryptoPrevent</Section>
+					<UnEditable>0</UnEditable>
+					<Collapsed>0</Collapsed>
+					<Fill></Fill>
+					<LtGuid>9f9e4eda-88f5-408e-a568-f732ed682828</LtGuid>
+					<IsPassword>false</IsPassword>
+					<IsEncrypted>false</IsEncrypted>
+					<IsHidden>false</IsHidden>
+					<IsRestricted>false</IsRestricted>
+					<ViewPermissions></ViewPermissions>
+					<EditPermissions></EditPermissions>
+				</Table>
+			</NewDataSet>
+		</ExtraDataField>
+		<ExtraDataField>
+			<NewDataSet>
+				<Table>
+					<ID>544</ID>
+					<Form>1</Form>
+					<Name>Protection Verified</Name>
+					<Sort>2</Sort>
+					<NoBreak>0</NoBreak>
+					<FType>1</FType>
+					<Section>CryptoPrevent</Section>
+					<UnEditable>0</UnEditable>
+					<Collapsed>0</Collapsed>
+					<Fill></Fill>
+					<LtGuid>c9828c04-5d87-4b33-b7dd-4c21be5a0b4a</LtGuid>
+					<IsPassword>false</IsPassword>
+					<IsEncrypted>false</IsEncrypted>
+					<IsHidden>false</IsHidden>
+					<IsRestricted>false</IsRestricted>
+					<ViewPermissions></ViewPermissions>
+					<EditPermissions></EditPermissions>
+				</Table>
+			</NewDataSet>
+		</ExtraDataField>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>209</FolderID>
+					<ParentID>0</ParentID>
+					<Name>Security</Name>
+					<GUID>5676bdb2-7c8d-47e5-93fb-e6d3b37a9809</GUID>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>
