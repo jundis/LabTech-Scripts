@@ -6,17 +6,17 @@ You will need to setup 3 Extra Data Fields in LabTech for these scripts to work 
 
 All EDFs created under Dashboard > Config > Configurations > Additional Fields > Computers
 
-Field: CP Installed
-Type: Checkbox
-Tab: CryptoPrevent
-Data Screen: Computers
+Field: CP Installed  
+Type: Checkbox  
+Tab: CryptoPrevent  
+Data Screen: Computers  
 
-Field: Protection Verified
-Type: Checkbox
-Tab: CryptoPrevent
-Data Screen: Computers
+Field: Protection Verified  
+Type: Checkbox  
+Tab: CryptoPrevent  
+Data Screen: Computers  
 
-Field: Last Verification
-Type: Text
-Tab: CryptoPrevent
-Data Screen: Computers
+Field: Last Verification  
+Type: Text  
+Tab: CryptoPrevent  
+Data Screen: Computers  
